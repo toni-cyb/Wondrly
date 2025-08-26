@@ -1,0 +1,10 @@
+name: luminiq_ludogames_v1
+description: Application éducative Flutter pour enfants
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
