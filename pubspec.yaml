@@ -1,5 +1,5 @@
 name: luminiq_ludogames_v1
-description: Application éducative Flutter pour enfants
+description: Une application éducative pour enfants de 3 à 10 ans.
 publish_to: "none"
 
 environment:
@@ -8,3 +8,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
